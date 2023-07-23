@@ -1,0 +1,20 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "vitepress-blog",
+  "main": "index.html",
+  "repository": "/",
+  "author": "zhengxinyu <mellowzz@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "@vuepress/theme-default": "^1.9.9",
+    "vitepress": "^1.0.0-beta.5",
+    "vue": "^3.3.4",
+    "vuepress-theme-reco": "^1.6.17"
+  }
+}

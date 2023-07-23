@@ -1,0 +1,55 @@
+:root {
+  /* test-01 */
+  /* --vp-home-hero-name-color: red; */
+  /* --vp-home-hero-name-color: transparent; */
+  /* --vp-home-hero-name-background: linear-gradient( 135deg, #F6CEEC 10%, #D939CD 100%); */
+  /* --vp-home-hero-image-background-image: linear-gradient( 135deg, #F6CEEC 10%, #D939CD 100%); */
+
+  /* test-02 */
+  /* 标题 */
+  /* --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient( 135deg, #F0FF00 10%, #58CFFB 100%); */
+  /* 图标背景 */
+  /* --vp-home-hero-image-background-image: linear-gradient( 135deg, #F0FF00 10%, #58CFFB 100%);
+  --vp-home-hero-image-filter: blur(150px); */
+
+  /* test-03 */
+  /* 标题 */
+  /* --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient( 135deg, #F0FF00 10%, #58CFFB 100%); */
+  /* 图标背景 */
+  /* --vp-home-hero-image-background-image: linear-gradient( 135deg, #F0FF00 10%, #5ac7ac 100%);
+  --vp-home-hero-image-filter: blur(150px); */
+
+  /* test-04 */
+  /* 标题 */
+  /* --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient( 135deg, #70F570 10%, #49C628 100%); */
+  /* 图标背景 */
+  /* --vp-home-hero-image-background-image: linear-gradient( 135deg, #70F570 10%, #49C628 100%);
+  --vp-home-hero-image-filter: blur(150px); */
+
+  /* 标题 */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient( 135deg, #A0FE65 10%, #FA016D 100%);
+  /* 图标背景 */
+  --vp-home-hero-image-background-image: linear-gradient( 135deg, #A0FE65 30%, #FA016D 100%);
+  --vp-home-hero-image-filter: blur(150px);
+
+  /* brand按钮 */
+  --vp-button-brand-border: #F6CEEC;
+  /* --vp-button-brand-text: #fff9f5; */
+  --vp-button-brand-text: #fff;
+  --vp-button-brand-bg: #42b883;
+  
+  --vp-button-brand-hover-border: #F6CEEC;
+  --vp-button-brand-hover-text: #a852fe;
+  --vp-button-brand-hover-bg: #33a06f;
+
+  --vp-button-brand-active-border: #F6CEEC;
+
+  /* 主题基色 */
+  --vp-c-brand: #a852fe;
+  --vp-c-brand-light: #a852fe;
+  --vp-c-brand-dark: #a852fe;
+}
