@@ -7,7 +7,7 @@ export default defineConfig({
       overlay: false,
     },
   },
-  cacheDir: "./.vitepress/cache",
+  cacheDir: "./cache",
   head: [
     [
       "link",

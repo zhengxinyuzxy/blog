@@ -8,7 +8,7 @@ hero:
   image:
     # src: /public/vite.png
     # src: /public/shizi.png
-    src: /public/eryu.png
+    src: /eryu.png
     # src: /public/ren.gif
     # src: /public/che.png
     # src: /public/yun.png
